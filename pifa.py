@@ -10,18 +10,23 @@ from datetime import datetime
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackQueryHandler, ContextTypes
 
-
 # Настройка логирования
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     level=logging.INFO
 )
 
-# Токен бота
-BOT_TOKEN = os.environ.get('BOT_TOKEN')
+# Токен бота - ПРОБУЕМ РАЗНЫЕ СПОСОБЫ
+BOT_TOKEN = os.environ.get('BOT_TOKEN') or os.getenv('BOT_TOKEN')
+
+# Если токен не найден, выводим все переменные окружения для отладки
 if not BOT_TOKEN:
     print("❌ ОШИБКА: BOT_TOKEN не найден в переменных окружения!")
+    print("🔍 Доступные переменные окружения:")
+    for key, value in os.environ.items():
+        print(f"   {key}: {value}")
     exit(1)
+
 BOT_USERNAME = "pythagoras_cube_bot"
 
 # База данных
@@ -1592,4 +1597,5 @@ def main():
     application.run_polling()
 
 if __name__ == '__main__':
+
     main()
