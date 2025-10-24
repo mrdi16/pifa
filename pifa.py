@@ -639,7 +639,7 @@ class PythagorasCube:
             text += "которые при правильном развитии могут привести к успеху и гармонии. "
             text += "Помните, что цифры показывают потенциал, а его реализация зависит от вас!\n\n"
             
-            text += "\n✨ Рассчитано ботом <a href='https://t.me/pythagoras_cube_bot'>🅿️🅸🅵🅰️</a>"
+            text += "\n✨ Рассчитано ботом [🅿️🅸🅵🅰️](https://t.me/pythagoras_cube_bot)"
             
             print(f"✅ Интерпретация успешно сформирована")
             return text
@@ -1597,6 +1597,7 @@ def main():
 if __name__ == '__main__':
 
     main()
+
 
 
 
