@@ -17,7 +17,7 @@ logging.basicConfig(
 )
 
 # Токен бота - ПРОБУЕМ РАЗНЫЕ СПОСОБЫ
-BOT_TOKEN = '8091583677:AAH5dBxPuk8-DsbC0j6f1vv8tu0IBzbCdk'
+BOT_TOKEN = '8091583677:AAGx-bgSQWculaPipu9T48hM_4fcGVD3hZs'
 
 # Если токен не найден, выводим все переменные окружения для отладки
 if not BOT_TOKEN:
@@ -1599,5 +1599,6 @@ def main():
 if __name__ == '__main__':
 
     main()
+
 
 
