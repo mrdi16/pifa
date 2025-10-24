@@ -17,15 +17,14 @@ logging.basicConfig(
 )
 
 # Токен бота
-BOT_TOKEN = os.environ.get('BOT_TOKEN', '').strip()
-print(f"🔐 Получен BOT_TOKEN из переменных: {BOT_TOKEN[:10]}...")
+BOT_TOKEN = os.environ.get("BOT_TOKEN")
 
-if not BOT_TOKEN:
-    print("❌ ОШИБКА: BOT_TOKEN не найден в переменных окружения!")
-    print(f"🔍 Доступные переменные окружения: {list(os.environ.keys())}")
+if BOT_TOKEN:
+    print("Токен получен успешно!")
+    print(f"Токен: {BOT_TOKEN[:10]}...")
+else:
+    print("ОШИБКА: BOT_TOKEN не найден!")
     exit(1)
-
-print(f"🔐 Итоговый BOT_TOKEN: {BOT_TOKEN[:10]}...")
 
 BOT_USERNAME = "pythagoras_cube_bot"
 
@@ -1599,6 +1598,7 @@ def main():
 if __name__ == '__main__':
 
     main()
+
 
 
 
