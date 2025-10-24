@@ -640,7 +640,6 @@ class PythagorasCube:
             text += "Помните, что цифры показывают потенциал, а его реализация зависит от вас!\n\n"
             
             text += "\n✨ Рассчитано ботом <a href='https://t.me/pythagoras_cube_bot'>🅿️🅸🅵🅰️</a>"
-            await message.reply_text(text, parse_mode='HTML', disable_web_page_preview=True)
             
             print(f"✅ Интерпретация успешно сформирована")
             return text
@@ -1598,6 +1597,7 @@ def main():
 if __name__ == '__main__':
 
     main()
+
 
 
 
