@@ -1,0 +1,171 @@
+{
+  "9TAkJb9O": {
+    "user_id": 5917286646,
+    "created_at": "2025-10-29 13:13:30",
+    "used_by": [
+      7000268275,
+      1698403624,
+      7080470099
+    ],
+    "uses_count": 3
+  },
+  "6OBnnEq9": {
+    "user_id": 7000268275,
+    "created_at": "2025-10-29 14:21:43",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "T7lH48NS": {
+    "user_id": 1698403624,
+    "created_at": "2025-10-29 15:43:55",
+    "used_by": [
+      5917286646
+    ],
+    "uses_count": 1
+  },
+  "vRQ757aA": {
+    "user_id": 7600600741,
+    "created_at": "2025-10-29 22:23:55",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "sjssKsRG": {
+    "user_id": 581589842,
+    "created_at": "2025-10-29 22:40:00",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "d8tRiFpx": {
+    "user_id": 1545383276,
+    "created_at": "2025-10-30 21:29:46",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "XXTzlQFo": {
+    "user_id": 7080470099,
+    "created_at": "2025-10-30 22:36:55",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "ul02lRjr": {
+    "user_id": 1385288652,
+    "created_at": "2025-10-30 23:22:34",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "H3X6eWgB": {
+    "user_id": 1783017143,
+    "created_at": "2025-10-31 19:17:54",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "ZYu5xqAL": {
+    "user_id": 1753707581,
+    "created_at": "2025-11-01 01:54:30",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "FAa4RV6b": {
+    "user_id": 635408030,
+    "created_at": "2025-11-01 12:39:23",
+    "used_by": [
+      2052281990,
+      756105949,
+      1572839250
+    ],
+    "uses_count": 3
+  },
+  "VBe0cBnc": {
+    "user_id": 2052281990,
+    "created_at": "2025-11-01 16:50:31",
+    "used_by": [
+      7402027516,
+      2120199664
+    ],
+    "uses_count": 2
+  },
+  "UjYLWKlN": {
+    "user_id": 1572839250,
+    "created_at": "2025-11-01 17:53:25",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "dkMaBDeK": {
+    "user_id": 5162978369,
+    "created_at": "2025-11-01 23:08:20",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "gWolXvM9": {
+    "user_id": 6374873855,
+    "created_at": "2025-11-02 12:45:41",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "hhujQRq6": {
+    "user_id": 7949519588,
+    "created_at": "2025-11-02 15:01:23",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "UTPhvAHm": {
+    "user_id": 5216947717,
+    "created_at": "2025-11-02 15:07:39",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "0Uh6rvzk": {
+    "user_id": 1079922982,
+    "created_at": "2025-11-02 15:12:09",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "8DbsFeV7": {
+    "user_id": 8549595091,
+    "created_at": "2025-11-02 15:57:42",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "HmJIzEPL": {
+    "user_id": 6350488617,
+    "created_at": "2025-11-02 15:58:18",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "MBxOjI6i": {
+    "user_id": 8320680842,
+    "created_at": "2025-11-02 16:02:16",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "v8e5Cau5": {
+    "user_id": 1864557379,
+    "created_at": "2025-11-02 17:24:13",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "N2UclacO": {
+    "user_id": 7893517808,
+    "created_at": "2025-11-02 19:02:10",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "mM40PgxT": {
+    "user_id": 8458733636,
+    "created_at": "2025-11-03 09:15:32",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "SwyUbIiI": {
+    "user_id": 307305550,
+    "created_at": "2025-11-03 20:18:26",
+    "used_by": [],
+    "uses_count": 0
+  },
+  "BNGmz2OX": {
+    "user_id": 5556393688,
+    "created_at": "2025-11-04 19:50:41",
+    "used_by": [],
+    "uses_count": 0
+  }
+}
